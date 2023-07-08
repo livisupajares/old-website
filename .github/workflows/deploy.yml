@@ -3,12 +3,12 @@ name: deploy
 on:
   push:
     branches:
+      - test
       - master
-      - main
   pull_request:
     branches:
-      - master
-      - main
+      - test
+      - master 
   workflow_dispatch:
 
 permissions:
