@@ -10,8 +10,8 @@ $red-color-dark:      #D20F39 !default;
 $orange-color:        #F5A97F !default;
 $blue-color:          #8AADF4 !default;
 $blue-color-dark:     #1E66F5 !default;
-$cyan-color:          #8BD5CA !default;
-$light-cyan-color:    lighten($cyan-color, 25%);
+$cyan-color:          #179299 !default;
+$light-cyan-color:    #8BD5CA !default;
 $green-color:         #A6DA95 !default;
 $green-color-lime:    #B7D12A !default;
 $green-color-dark:    #40A02B !default;
@@ -25,7 +25,7 @@ $yellow-color:        #EED49F !default;
 
 $grey-color:          #4C4F69 !default;
 $grey-color-light:    #B8C0E0 !default;
-$grey-color-dark:     #181926 !default;
+$grey-color-dark:     #5B6078 !default;
 $grey-900:            #24273A !default;
 
 $white-color: #EFF1F5 !default;
@@ -35,4 +35,4 @@ $black-color: #181926 !default;
 // Theme colors
 
 $code-bg-color-light:     #DCE0E8;
-$code-bg-color-dark:      #24273A !default;
+$code-bg-color-dark:      #363A4F !default;
